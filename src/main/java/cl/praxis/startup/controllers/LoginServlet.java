@@ -1,4 +1,4 @@
-package cl.praxis.startup;
+package cl.praxis.startup.controllers;
 
 public class LoginServlet {
 }
