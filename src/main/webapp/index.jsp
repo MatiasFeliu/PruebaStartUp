@@ -37,8 +37,8 @@
             <br>
             <br>
             <br>
-            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Login</button>
-            <a href="register.jsp" type="button" class="btn btn-primary" data-bs-toggle="btn">Registrate</a>
+            <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Login</button>
+            <a href="register.jsp" type="button" class="btn btn-warning" data-bs-toggle="btn">Registrate</a>
             <br>
         </div>
         <div class="card-footer text-body-secondary"></div>
@@ -61,7 +61,7 @@
                             <input type="password" class="form-control" id="pass" name="pass" required>
                         </div>
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
-                        <button type="submit" class="btn btn-primary">Iniciar Sesión</button>
+                        <button type="submit" class="btn btn-warning">Iniciar Sesión</button>
                     </form>
                 </div>
             </div>

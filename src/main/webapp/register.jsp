@@ -90,7 +90,7 @@
             </section>
             <br>
             <div class="container text-center">
-                <button type="submit" class="btn btn-primary btn-lg" value="insertUser">Registrar</button>
+                <button type="submit" class="btn btn-warning btn-lg" value="insertUser">Registrar</button>
             </div>
             <br>
         </form>
